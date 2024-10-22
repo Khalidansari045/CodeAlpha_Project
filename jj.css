@@ -1,0 +1,28 @@
+.music-player {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    background-color: rgb(148, 148, 206);
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(156, 18, 184) ;
+  }
+  
+  .playlist, .search, .categories {
+    margin: 20px 0;
+    background-color: aqua;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: burlywood;
+    }
+
+
+  
